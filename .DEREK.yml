@@ -1,5 +1,6 @@
 maintainers:
  - iyovcheva
+ - ivanayov/bot-tester
 
 features:
  - dco_check
